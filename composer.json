@@ -1,0 +1,18 @@
+{
+    "name": "verinoval/bca-parser",
+    "description": "Scrapper for KlikBCA",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kadekjayak",
+            "email": "kadekjayak@yahoo.co.id"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MutasiBCA\\":"src/"
+        }
+    }
+}
